@@ -1,2 +1,2 @@
 # biter_engine
-Application host. "He likes to bite people, that one."
+Application host. "It likes to bite people."
